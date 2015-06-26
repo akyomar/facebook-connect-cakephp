@@ -1,3 +1,3 @@
 Facebook connect cakephp 
 ====================================
-modife depuis github.
+modifié depuis github.
